@@ -1,0 +1,4 @@
+Flask_SQLAALCHEMY=2.4.4
+Flask=1.1.2
+Flask_Restful=0.3.8
+gunicorn=19.9.0
